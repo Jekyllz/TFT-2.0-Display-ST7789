@@ -12,7 +12,7 @@ TFT Display 0.96 1.3 1.14 1.54 2.0 Inch IPS 7P SPI HD 65K Color LCD Module ST773
 * 18650 BMS I use a customised tp4056 that provides adjustable output [Ali.express.tp4056.bms](https://nl.aliexpress.com/item/1005004616088520.html?spm=a2g0o.order_list.order_list_main.108.21ef79d2kQJoub&gatewayAdapt=glo2nld)
   
 * 18650 Battery & 18650 battery holder (easy to google and find) [Holder](https://nl.aliexpress.com/item/1005005084346241.html?spm=a2g0o.productlist.main.3.4efc75886lWDEn&algo_pvid=a93a391b-e36f-4ed0-99de-d28d16f3f60e&algo_exp_id=a93a391b-e36f-4ed0-99de-d28d16f3f60e-1&pdp_npi=3%40dis%21GBP%215.83%212.8%212.62%21%217.21%21%21%4021227f0f16889136359864900d077a%2112000031584753183%21sea%21UK%212497487056&curPageLogUid=K0xFXddcbtTP) ; [Battery](https://nl.aliexpress.com/item/32810252344.html?spm=a2g0o.order_list.order_list_main.81.21ef79d2BWutpn&gatewayAdapt=glo2nld)
-* 
+
   
 ## Wiring
 * BLK - Not Used
