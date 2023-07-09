@@ -17,7 +17,7 @@ void setup(void) {
   Serial.print(F("Hello! ST77xx TFT Test"));
 
   // Use this initializer (uncomment) if using a 1.3" or 1.54" 240x240 TFT:
-  tft.init(240, 240, SPI_MODE2);           // Init ST7789 240x240
+  tft.init(240, 320, SPI_MODE3);           // Init ST7789 240x240
   tft.setRotation(2);
   
   // SPI speed defaults to SPI_DEFAULT_FREQ defined in the library, you can override it here
