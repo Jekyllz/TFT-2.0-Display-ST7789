@@ -7,9 +7,9 @@ TFT Display 0.96 1.3 1.14 1.54 2.0 Inch IPS 7P SPI HD 65K Color LCD Module ST773
 
 Parts Used
 2.0Inch screen here [Ali.Express.tft.screen]([url](https://nl.aliexpress.com/item/32859772356.html?spm=a2g0o.order_list.order_list_main.401.df0379d2loXv5B&gatewayAdapt=glo2nld)https://nl.aliexpress.com/item/32859772356.html?spm=a2g0o.order_list.order_list_main.401.df0379d2loXv5B&gatewayAdapt=glo2nld)
- Arduino Nano (mines a clone)
- 18650 BMS I use a customised tp4056 that provides adjustable output [Ali.express.tp4056.output]([url](https://nl.aliexpress.com/item/1005004616088520.html?spm=a2g0o.order_list.order_list_main.108.21ef79d2kQJoub&gatewayAdapt=glo2nld)https://nl.aliexpress.com/item/1005004616088520.html?spm=a2g0o.order_list.order_list_main.108.21ef79d2kQJoub&gatewayAdapt=glo2nld)
- 18650 Battery & 18650 battery holder (easy to google and find)
+Arduino Nano (mines a clone)
+18650 BMS I use a customised tp4056 that provides adjustable output [Ali.express.tp4056.output]([url](https://nl.aliexpress.com/item/1005004616088520.html?spm=a2g0o.order_list.order_list_main.108.21ef79d2kQJoub&gatewayAdapt=glo2nld)https://nl.aliexpress.com/item/1005004616088520.html?spm=a2g0o.order_list.order_list_main.108.21ef79d2kQJoub&gatewayAdapt=glo2nld)
+18650 Battery & 18650 battery holder (easy to google and find)
 
 #Wiring
 BLK - Not Used
