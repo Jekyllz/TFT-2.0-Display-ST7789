@@ -35,8 +35,6 @@ Install these Libraries:
   Adafruit_GFX.h    // Core graphics library
   Adafruit_ST7789.h // Hardware-specific library for ST7789
 
-![tft-screen-pin-layout](https://github.com/Jekyllz/TFT-2.0-Display-ST7789/assets/24834166/06d612dc-b1df-4a4c-9bfc-8c049bd0b53a)
-
 Download .ino and upload to arduino :)
 
 
