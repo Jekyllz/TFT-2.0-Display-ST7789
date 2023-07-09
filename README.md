@@ -26,7 +26,7 @@ TFT Display 0.96 1.3 1.14 1.54 2.0 Inch IPS 7P SPI HD 65K Color LCD Module ST773
 
 
 ## Arduino Libraries
-Open the Library Manager:
+In Arduino IDE - Open the Library Manager:
 * In the menu bar, select Tools > Manage Libraries…
 In IDE 2, you can also click on the Library Manager icon button in the sidebar.
 Find the library in the search results. The results are listed alphabetically, so you may need to scroll down the list.
@@ -36,9 +36,21 @@ Find a library you want to install. You can review the description and author. W
 * Adafruit_GFX.h    // Core graphics library
 * Adafruit_ST7789.h // Hardware-specific library for ST7789
 
-## Download .ino on this GIT and upload to arduino :)
+Download .ino on this Repository and upload with Arduino IDE :)
 
+The code can further be adjusted
+Notice at line 20 init. the width and space of the screen
+```
+tft.init(240, 320, SPI_MODE3);           // Init ST7789 240x320
+```
+Or rotation of dislay
+```
+tft.setRotation(2)
+```
+SPI Speed Frequency:
+```
+tft.setSPISpeed(40000000);
+```
 
-Credit to limchengwei in the original Code for Arduino Mega that has been ammended for the arduino Nano. [arduino mega]([url](https://www.hackster.io/limchengwei/st7789-lcd-with-arduino-mega-and-potential-divider-3db631)https://www.hackster.io/limchengwei/st7789-lcd-with-arduino-mega-and-potential-divider-3db631)
-
+Credit to limchengwei in the original Code for Arduino Mega that has been ammended for use wtih the arduino Nano. [arduino mega]([url](https://www.hackster.io/limchengwei/st7789-lcd-with-arduino-mega-and-potential-divider-3db631)https://www.hackster.io/limchengwei/st7789-lcd-with-arduino-mega-and-potential-divider-3db631)
 
