@@ -52,5 +52,6 @@ SPI Speed Frequency:
 tft.setSPISpeed(40000000);
 ```
 
-Credit to limchengwei in the original Code for Arduino Mega that has been ammended for use wtih the arduino Nano. [arduino mega]([url](https://www.hackster.io/limchengwei/st7789-lcd-with-arduino-mega-and-potential-divider-3db631)https://www.hackster.io/limchengwei/st7789-lcd-with-arduino-mega-and-potential-divider-3db631)
+Credit to limchengwei in the original Code for Arduino Mega that has been ammended for use wtih the arduino Nano. [arduino mega](https://www.hackster.io/limchengwei/st7789-lcd-with-arduino-mega-and-potential-divider-3db631)
+
 
